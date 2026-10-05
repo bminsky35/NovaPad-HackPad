@@ -2,4 +2,4 @@
 
 Three-button macro pad project. The KiCad PCB design and connection notes are in
 [`hardware/novapad`](hardware/novapad/).
-https://github.com/github-copilot/chat/attachments/422e9f49-e6fb-4594-8b9d-78259506146e
+<img width="30" height="22" alt="image" src="https://github.com/user-attachments/assets/ef4f7020-cebb-4a92-9e1c-b3fdad980f3b" />
